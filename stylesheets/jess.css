@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+.jess-primary {
+background-color:white;
+color:#5B7F98;
+-moz-box-shadow: 0 0 9px #ccc;
+-webkit-box-shadow: 0 0 9px #ccc;
+box-shadow: 0 0 9px #ccc;
+/*font-family: 'Roboto', sans-serif;*/
+padding:5px 10px 5px 10px;
+word-wrap:break-word;
+}
+.jess-primary h2{
+text-align:center;
+}
+.jess-secondary {
+background-color: #5B7F98;
+font-family: 'Roboto', sans-serif;
+word-wrap:break-word;
+}
